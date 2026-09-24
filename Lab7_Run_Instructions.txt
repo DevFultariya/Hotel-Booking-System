@@ -1,0 +1,11 @@
+How to run the Hotel Room Booking System:
+
+1. Ensure you have Python installed (Python 3.6 or higher).
+2. Open your terminal or command prompt.
+3. Navigate to the `src` folder inside the project directory:
+   cd path/to/Lab7/src
+4. Run the main file using python:
+   python main.py
+   (On some systems, you might need to use `python3 main.py`)
+5. You will see a CLI Menu. To run the automated test cases, press '7'. 
+6. To exit the program, press '8'.
